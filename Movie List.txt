@@ -1,0 +1,57 @@
+Movie List
+---------------------------------------------
+
+[Movie 1]
+Movie Name : Honkai/Zero Impact
+Genre      : Anime, Action
+Language   : Japanese
+Duration   : 120 minutes
+Price      : RM 12.50
+
+Description: 
+Follow the epic journey of the 13 Flame Chasers battling against 
+an otherworldly force that threatens to have a significant impact 
+on the fate of humanity. 
+With stunning animation and intense action scenes, 
+Honkai/Zero Impact is a must-watch for anime fans.
+
+
+[Movie 2]
+Movie Name : What Is Your Name?
+Genre      : Anime, Romance
+Language   : Japanese
+Duration   : 135 minutes
+Price      : RM 10.00
+
+Description: 
+Experience a heartwarming tale of love and destiny as two strangers 
+from different timelines find their lives intertwined through 
+a series of serendipitous events.
+
+
+[Movie 3]
+Movie Name : Internet Overdose
+Genre      : Comedy
+Language   : English
+Duration   : 100 minutes
+Price      : RM 8.50
+
+Description: 
+Embark on a hilarious journey through the chaotic world of the 
+internet as a group of friends navigate memes and TikTok's viral videos.
+
+
+[Movie 4]
+Movie Name : Deadpool May Cry
+Genre      : Action, Comedy
+Language   : English
+Duration   : 150 minutes
+Price      : RM 10.00
+
+Description: 
+Wade Wilson, also known as Deadpool, finds himself in a chaotic 
+situation when he crosses paths with demon hunters and 
+supernatural beings. 
+With his super-ultra-ultimate healing factor and broken humor, 
+Deadpool takes on the challenge to save the world, once again.
+

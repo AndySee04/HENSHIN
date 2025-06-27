@@ -1,0 +1,22 @@
+B001,Andy See,Honkai/Zero Impact,13/05/2024 (Thu),Morning (8:00 am),Hall 1,2,B9 D5,25.0
+B002,Andy Soo,What Is Your Name?,13/05/2024 (Thu),Evening (4:00 pm),Hall 2,4,B2 B3 B4 B5,40.0
+B004,Xin Lin,Honkai/Zero Impact,13/05/2024 (Thu),Morning (8:00 am),Hall 1,2,B6 B7,25.0
+B005,Yeong Hong Zhen,Internet Overdose,14/05/2024 (Fri),Evening (4:00 pm),Hall 3,1,C8,8.5
+B006,Darren Liow,Deadpool May Cry,14/05/2024 (Fri),Evening (4:00 pm),Hall 4,2,D5 D6,20.0
+B007,Ng Inn Xiang,Internet Overdose,14/05/2024 (Fri),Morning (8:00 am),Hall 3,3,C4 C5 C6,36.0
+B008,Choi Soo Bin,Deadpool May Cry,13/05/2024 (Thu),Morning (8:00 am),Hall 4,1,D6,10.0
+B009,Wan Ye,Internet Overdose,14/05/2024 (Fri),Morning (8:00 am),Hall 3,1,C1,8.5
+B010,Qi Ren,What Is Your Name?,14/05/2024 (Fri),Evening (4:00 pm),Hall 2,1,B3,10.0
+B011,Justin,Honkai/Zero Impact,14/05/2024 (Fri),Evening (4:00 pm),Hall 1,3,E2 E3 E4,35.0
+B012,Andy Lau,Internet Overdose,13/05/2024 (Thu),Morning (8:00 am),Hall 3,3,D5 D6 D7,25.5
+B013,Marry Jane,Internet Overdose,13/05/2024 (Thu),Evening (4:00 pm),Hall 3,3,E5,E6,E7,25.5
+B014,Sugar Baby,Honkai/Zero Impact,13/05/2024 (Thu),Morning (8:00 am),Hall 1,1,A2,12.5
+B015,Zhong Li,Honkai/Zero Impact,14/05/2024 (Fri),Morning (8:00 am),Hall 1,3,A2 A3 A4,37.5
+B016,Benjamin,What Is Your Name?,13/05/2024 (Thu),Morning (8:00 am),Hall 2,2,C4 C5,20.0
+B017,Xin Lin,Internet Overdose,13/05/2024 (Thu),Morning (8:00 am),Hall 3,5,C1 C2 C3 C4 C5,42.5
+B018,Andy See,Honkai/Zero Impact,14/05/2024 (Fri),Evening (4:00 pm),Hall 5,1,B1 B3 B5 B7 B9,62.5
+B019,Hang Hang,What Is Your Name?,14/05/2024 (Fri),Morning (8:00 am),Hall 2,4,D4 D5 D6 D7,40.0
+B020,Hu Tao,Internet Overdose,13/05/2024 (Thu),Evening (4:00 pm),Hall 3,4,A5 A7 A9 B7,34.0
+B021,Benjamin,Deadpool May Cry,13/05/2024 (Thu),Evening (4:00 pm),Hall 4,4,E4 E6 E7 E8,40.0
+B022,Maria,Deadpool May Cry,14/05/2024 (Fri),Morning (8:00 am),Hall 4,5,C3 C4 C6 E7 A3,50.0
+B023,Andy Lau,Honkai/Zero Impact,13/05/2024 (Thu),Evening (4:00 pm),Hall 1,5,C4 C5 C6 C7 C8,62.5

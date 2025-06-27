@@ -1,0 +1,11 @@
+admin,Admin_01,23,admin01@henshin.com,F,Henshin@01
+admin,Admin_02,35,admin02@admin.com,F,Henshin@02
+customer,Andy See,19,andy@gmail.com,M,See1234&
+customer,Xin Lin,19,xl@gmail.com,M,XLlove*999
+customer,Yeong Hong Zhen,19,yhz@outlook.com,M,YHZ&555
+customer,Zhong Li,45,zl@gmail.com,M,ZL0202#
+customer,Hu Tao,19,hutaonumberone@outlook.com,M,HuTao*951
+customer,Andy Lau,45,lau@gmail.com,M,Lau#888
+customer,Benjamin,19,ben10@outlook.com,M,Ben*10
+customer,Jojo,99,jojo@gmail.com,M,Jojo$999
+customer,Wonder Woman,33,ww@ww.com,F,WWW*000
